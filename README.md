@@ -3,8 +3,11 @@ Name: CHANDREYI SEN
 Company: CODTECH IT SOLUTIONS
 
 ID: CT08DS7081
+
 Domain: JAVA PROGRAMMING
+
 Duration: AUGUST 30TH to SEPTEMBER 30TH, 2024
+
 Mentor: 
 
 Overview of the Project
