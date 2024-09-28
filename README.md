@@ -8,7 +8,7 @@ Domain: JAVA PROGRAMMING
 
 Duration: AUGUST 30TH to SEPTEMBER 30TH, 2024
 
-Mentor: 
+Mentor: Neela Santhosh Kumar
 
 Overview of the Project
 
